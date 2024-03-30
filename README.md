@@ -6,7 +6,7 @@
   
 <h1 align="center"> Hi there, I'm El Chaimae REBAHI! 👋</h1>
 <h2 align="center">I'm a Ph.D. student </h2>
-<h3 align="center">My research interests lie in data hiding, speech processing, and digital watermarking</h3>
+<h3 align="center">My research interests lie in data hiding, speech processing, and digital watermarking.</h3>
 
 
 ## 🌟 About Me:
