@@ -107,7 +107,7 @@
       <th style="padding: 10px; text-align: left;">Details</th>
     </tr>
     <tr>
-      <td style="padding: 10px;">title 1</td>
+      <td style="padding: 10px;">Image-Watermarking-Technique-Using-Convolutional-Autoencoder</td>
       <td style="padding: 10px;">------------</td>
     </tr>
     <tr>
