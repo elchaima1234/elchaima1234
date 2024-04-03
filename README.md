@@ -68,15 +68,11 @@
       <th style="padding: 10px; text-align: left;">Details</th>
     </tr>
     <tr>
-      <td style="padding: 10px;">title 1</td>
-      <td style="padding: 10px;">---------</td>
+      <td style="padding: 10px;">Image Classification Projects</td>
+      <td style="padding: 10px;">https://github.com/elchaima1234/Image-Classification)</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">title 2 </td>
-      <td style="padding: 10px;">------------</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">title 3</td>
+      <td style="padding: 10px;">Audio Classification Projects</td>
       <td style="padding: 10px;">------------</td>
     </tr>
 </table>
