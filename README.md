@@ -111,8 +111,8 @@
       <td style="padding: 10px;">https://github.com/elchaima1234/Image-Watermarking-Technique-Using-Convolutional-Autoencoder</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">title 2 </td>
-      <td style="padding: 10px;">----------</td>
+      <td style="padding: 10px;">Generating-Sound-Using-Unet </td>
+      <td style="padding: 10px;">https://github.com/elchaima1234/Generating-Sound-Using-Unet-</td>
     </tr>
      <tr>
       <td style="padding: 10px;">title 3</td>
