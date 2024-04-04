@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td style="padding: 10px;">Audio Classification Projects</td>
-      <td style="padding: 10px;">https://github.com/elchaima1234/Data-Preprocessing</td>
+      <td style="padding: 10px;">-----------</td>
     </tr>
 </table>
 
@@ -89,7 +89,7 @@
     </tr>
     <tr>
       <td style="padding: 10px;">Audio Data Augmentation</td>
-      <td style="padding: 10px;">---------------</td>
+      <td style="padding: 10px;">https://github.com/elchaima1234/Data-Preprocessing</td>
     </tr>
     <tr>
       <td style="padding: 10px;">title 2 </td>
