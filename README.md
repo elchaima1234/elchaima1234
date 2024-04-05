@@ -89,11 +89,11 @@
     </tr>
     <tr>
       <td style="padding: 10px;">Audio Data Augmentation</td>
-      <td style="padding: 10px;">https://github.com/elchaima1234/Data-Preprocessing</td>
+      <td style="padding: 10px;">https://github.com/elchaima1234/Data-Preprocessing/blob/main/Audio_data_augmentation_ipynb.ipynb</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">title 2 </td>
-      <td style="padding: 10px;">-------------</td>
+      <td style="padding: 10px;">Audio_Data_Processing</td>
+      <td style="padding: 10px;">https://github.com/elchaima1234/Data-Preprocessing/blob/main/Audio_Data_Processing.ipynb</td>
     </tr>
 
 
